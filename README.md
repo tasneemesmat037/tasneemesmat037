@@ -84,6 +84,14 @@ Beyond the technical side, I’m deeply involved in **medical volunteering**, **
   <i>"Merging science, empathy, and technology to empower recovery."</i>  
   <br/><br/>
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=tasneemesmat037&style=flat-square&color=blue"/>
+    </p></p>
+
+---
+
+<p align="center">
+  <i>"Merging science, empathy, and technology to empower recovery."</i>  
+  <br/><br/>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=tasneemesmat037&style=flat-square&color=blue"/>
 </p>
 - Neural and emotional interfaces in physical rehabilitation.  
 - Smart prosthetics and robotic-assisted therapy.  

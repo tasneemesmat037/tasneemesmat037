@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://images.openai.com/static-rsc-1/TnxWAi4VAQcR6k3sNhPgdb0kSFBeIqOkDZClh5BWVUph67sxymdnR2zEP9QvbFW6-VlvkOMh4khGJHqzNsAk9XD2ZufYLZSFl0tiiOCfEOIl8Zhk4zdH5-mSSrX8liqwqU5FPIPVk8_vrzE_2uuHWw" alt="Professional Programming Banner" width="100%" />
-</p>
-
 <h1 align="center">👋 Hey there, I'm Dr. Tasneem Esmat</h1>
 <p align="center">
   <b>Physical Therapist | AI & Robotics Researcher | Developer | Medical Translator</b>  
